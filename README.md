@@ -1,3 +1,5 @@
+# The Making of Froggo Jump
+
 Froggo Jump was initially created as a game for the Florida Poly 2023 Respawn Game Jam which had the theme "Leap of Faith." 
 Our team of four created the game from scratch in 72 hours with Unity. It consisted of three levels exploring two mechanics.
 After the Jam, our team continued work on the game for roughly two months until the Florida Poly Game Expo on December 2nd.
