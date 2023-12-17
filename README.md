@@ -3,7 +3,7 @@
 Froggo Jump was created during the Florida Poly 2023 Respawn Game Jam which had the theme "Leap of Faith." 
 Our team of four created the game from scratch in 72 hours with Unity. It consisted of three levels exploring two mechanics.
 After the Jam, our team continued work on the game for roughly two months until the Florida Poly Game Expo on December 2nd.
-Since the game's initial release, additions included a level menu, four new levels, and a new mechanic.
+The expo version of the game added a level menu, four new levels, and a new mechanic.
 The game now has seven levels total.
 
 Due to difficulties with scheduling meetings for the team to work during the semester, the player movement and several of the levels are still unpolished.
