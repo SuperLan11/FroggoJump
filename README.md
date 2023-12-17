@@ -11,6 +11,8 @@ Levels 3 through 7 were much harder than anticipated, mainly due to time constra
 While the team could continue to polish the game, most of the members are interesting in pursuing new projects. 
 Through this project, the team gained invaluable insights on ways to make a game fair, fun, and intuitive.
 
+To play the game, download the zip file from the green code button, extract the folder from the zipped file, and open leap-of-faith.exe in the Game folder of the extracted folder.
+
 Team Contributions:
 - Landon Johnson - Artist and Level Designer (and composed the overworld theme)
 - Patrick Mayer - Designer and Programmer
