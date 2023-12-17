@@ -8,7 +8,8 @@ The game now has seven levels total.
 
 Due to difficulties with scheduling meetings for the team to work during the semester, the player movement and several of the levels are still unpolished.
 Levels 3 through 7 were much harder than anticipated, mainly due to time constraints and a lack of playtesting.
-While the team could continue to polish the game, most of the members are interesting in pursuing new projects.
+While the team could continue to polish the game, most of the members are interesting in pursuing new projects. 
+Through this project, the team gained invaluable insights on ways to make a game fair, fun, and intuitive.
 
 Team Contributions:
 - Landon Johnson - Artist and Level Designer (and composed the overworld theme)
