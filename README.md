@@ -17,4 +17,4 @@ Through this project, the team gained invaluable insights on ways to make a game
 - Craig White - Lead Programmer and Animator
 
 ## How to Play the Game
-To play the game, download the zip file from the green code button, extract the folder from the zipped file, and open leap-of-faith.exe in the Game folder of the extracted folder.
+Download the zip file from the green code button, extract the folder from the zipped file, and open leap-of-faith.exe in the Game folder of the extracted folder.
