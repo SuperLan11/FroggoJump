@@ -18,3 +18,4 @@ Through this project, the team gained invaluable insights on ways to make a game
 
 ## How to Play the Game
 Download the zip file from the green code button, extract the folder from the zipped file, and open leap-of-faith.exe in the Game folder of the extracted folder.
+A zip file for the game is also available at https://itch.io/jam/respawn-game-jam-fall-2023/rate/2303231
